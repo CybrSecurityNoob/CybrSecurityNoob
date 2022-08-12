@@ -1,0 +1,9 @@
+Power Supplies
+Electricity from wall outlets is provided in alternating current (AC). However, all components inside a computer require direct current (DC) power. To obtain DC power, computers use a power supply, as shown here, to convert AC power into a lower voltage DC power.
+
+The following describes the various computer desktop power supply form factors that have evolved over time:
+
+Advanced Technology (AT) – This is the original power supply for legacy computer systems now considered obsolete.
+AT Extended (ATX) – This is the updated version of the AT but still considered to be obsolete.
+ATX12V – This is the most common power supply on the market today. It includes a second motherboard connector to provide dedicated power to the CPU. There are several versions of ATX12V available.
+EPS12V – This was originally designed for network servers but is now commonly used in high-end desktop models.
